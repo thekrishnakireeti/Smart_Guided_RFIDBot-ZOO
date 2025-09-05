@@ -1,0 +1,20 @@
+
+Automated Navigation:
+The vehicle operates in a forward-only mode, navigating
+predefined paths throughout the park.An RFID reader is installed on the vehicle to
+detect RFID tags placed at various spots in the park.
+
+Tour Start and Stops:The tour begins when the vehicle reads the
+'start' RFID tag.At each designated spot (e.g., tiger zone, bird sanctuary), the vehicle stops automatically
+upon reading the corresponding RFID tag.
+
+Information Display and Audio Guide:
+Upon stopping at a designated zone, the vehicle's LCD display shows information about the current spot.Simultaneously, an audio
+output system provides detailed narration about the location, enhancing the visitor's knowledge and experience.
+
+Scheduled Stops and Alerts:The vehicle halts at each informational spot for a set
+duration, allowing visitors ample time to view and listen.Five minutes before the vehicle
+resumes its journey, a siren sounds, signaling visitors to return to the vehicle.
+Emergency System:An emergency push button is installed in the vehicle.When pressed
+by any visitor, it triggers an emergency siren and sends an alert message to the
+station.This ensures immediate attention and assistance from park staff.
